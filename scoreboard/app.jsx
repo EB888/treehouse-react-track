@@ -1,4 +1,6 @@
+//cd into scoreboard directory and start a python server
 // python -m SimpleHTTPServer 8000
+// open web browser and navigate to localhost:8000
 
 var PLAYERS = [
   {
